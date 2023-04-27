@@ -8,7 +8,7 @@ CONTRACT AUDIT COMPLETED - pending</br>
 IS IT SAFE?</br>
 </br>
 PENDING REVIEW: pending</br>
-RISK: Minimal. This project has successfully completed a LayerOne KYC for founder/developers and/or persons with control of the liquidity pool and contracts.<br>
+RISK: Minimal. This project has successfully completed a LayerOne KYC for founders/developers and/or persons with control of the liquidity pool and contracts.<br>
 </br>
 </br>
 NOTES:</br>

@@ -1,7 +1,8 @@
 PROJECT: ascensionone.app</br>
 </br>
 
-KYC COMPLETED - 2022/11/17 - PASSED</br>
+KYC COMPLETED - 2022/11/17 - PASSED - Kelvin</br>
+KYC COMPLETED - 2023/01/02 - PASSED - Tony</br>
 CONTRACT AUDIT COMPLETED - pending</br>
 </br>
 </br>
